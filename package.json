@@ -81,7 +81,8 @@
     "ts-node": "^10.2.1",
     "wa-sticker-formatter": "^4.1.1",
     "zrapi": "^0.0.6",
-    "yt-search": "^lates"
+    "ytdl-core":"latest",
+    "yt-search": "^2.7.6"
   },
   "license": "ISC"
 }
